@@ -27,7 +27,7 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 
 - Making changes to a wireframe is quicker and less costly than altering a high-fidelity design or a developed product. This flexibility encourages experimentation and iterative improvement.
 
-7.Guides the Design Process:
+7. Guides the Design Process:
 
 - Wireframes act as a guide for subsequent design and development phases, ensuring that the final product aligns with the initial vision and requirements.
 
